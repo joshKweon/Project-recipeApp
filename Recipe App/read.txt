@@ -1,0 +1,3 @@
+To start the app, enter [npm run build]
+
+GO to dist and click the index.html
